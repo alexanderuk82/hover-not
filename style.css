@@ -1,0 +1,12 @@
+:root {
+	--color-text: #151515;
+	--box-green: #7be639;
+	--body-bg: #fff;
+}
+
+body {
+	background-color: var(--body-bg);
+	font-size: 1rem;
+	font-family: Adelle, sans-serif;
+	color: var(--color-text);
+}
